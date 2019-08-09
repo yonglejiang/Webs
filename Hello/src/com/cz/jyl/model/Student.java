@@ -1,5 +1,10 @@
 package com.cz.jyl.model;
 
+/**
+ * Ñ§ÉúÀà
+ * @author wangya
+ *
+ */
 public class Student {
 	private String name;
 	private int id;
